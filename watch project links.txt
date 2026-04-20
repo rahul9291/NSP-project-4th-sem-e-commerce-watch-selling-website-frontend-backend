@@ -1,0 +1,3 @@
+http://localhost/phpmyadmin  ===backend 
+
+http://localhost/project/index.html ==- project open
